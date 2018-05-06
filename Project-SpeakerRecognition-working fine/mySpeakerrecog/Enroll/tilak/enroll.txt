@@ -1,0 +1,5 @@
+tilak\wav\tilak1.wav
+tilak\wav\tilak2.wav
+tilak\wav\tilak3.wav
+tilak\wav\tilak4.wav
+tilak\wav\tilak5.wav
